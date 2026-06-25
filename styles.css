@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+li {
+    font-size: 24px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    border: 3px solid white;
+}
+
+a {
+    color: black;
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.el {
+    text-align: center;
+    font-size: 40px;
+}
+.di {
+    border: 3px solid white;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.recipe-list {
+    list-style: none;
+    text-align: center;
+}
+
